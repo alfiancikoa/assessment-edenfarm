@@ -1,4 +1,4 @@
-# Assesment Test
+# Assesment Test Eden Farm As Backend Developer
 
 ### Problem
 
@@ -22,7 +22,7 @@ contoh:
 go test -v
 
 # Show Coverage
-go test -timeout 30s -cover
+go test -v -timeout 30s -cover
 ```
 
-<i><b>This Program have 100% coverage</b></i> <a href = "https://github.com/alfiancikoa/assessment-edenfarm/blob/main/coverage.png"><i><b>here</b></i></a>
+<i><b>This Program has 100% coverage</b></i> <a href = "https://github.com/alfiancikoa/assessment-edenfarm/blob/main/coverage.png"><i><b>here</b></i></a>
